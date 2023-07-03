@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-11T14:44:32Z" name="Default suite" finished-at="2023-04-11T14:45:02Z" duration-ms="30351">
+    <groups>
+    </groups>
+    <test started-at="2023-04-11T14:44:32Z" name="Default test" finished-at="2023-04-11T14:45:02Z" duration-ms="30351">
+      <class name="testcases.GotocreateLead">
+        <test-method is-config="true" signature="setFileName()[pri:0, instance:testcases.GotocreateLead@28261e8e]" started-at="2023-04-11T14:44:32Z" name="setFileName" finished-at="2023-04-11T14:44:32Z" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setFileName -->
+        <test-method is-config="true" signature="gjhnk()[pri:0, instance:testcases.GotocreateLead@28261e8e]" started-at="2023-04-11T14:44:35Z" name="gjhnk" finished-at="2023-04-11T14:44:46Z" duration-ms="11549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gjhnk -->
+        <test-method signature="entering(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.GotocreateLead@28261e8e]" started-at="2023-04-11T14:44:46Z" name="entering" data-provider="getData" finished-at="2023-04-11T14:45:02Z" duration-ms="16063" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Demosalesmanager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DemoCSR2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[J]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Qeagle]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entering -->
+      </class> <!-- testcases.GotocreateLead -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
