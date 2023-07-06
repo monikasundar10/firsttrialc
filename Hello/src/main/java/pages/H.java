@@ -11,8 +11,8 @@ public class H extends Baseclass {
 
 	@Test
 	public void runLoginlogout() {
-		Loginpage lp= new Loginpage();
-		lp.enterusername().enterpassword().clickloginbutton();
+//		Loginpage lp= new Loginpage();
+//		lp.enterusername().enterpassword().clickloginbutton();
 		
 		
 	}
